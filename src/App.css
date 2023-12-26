@@ -1,0 +1,11 @@
+@media(width>=1440px){
+  body{
+    transition: 1s;
+  }
+  .flex{
+      display: flex;
+      align-items: center;
+      height: 100vh;
+      transition: 1s;
+  }
+}
