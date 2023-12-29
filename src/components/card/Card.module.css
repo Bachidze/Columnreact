@@ -11,6 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     transition: 1s;
+    margin: 88px 24px;
 }
 .card{
     background-color: #E28625;
